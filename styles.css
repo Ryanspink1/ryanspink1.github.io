@@ -1,5 +1,18 @@
 div.title {
-  background: yellow;
+  background: #f2f2f2;
   font-size: 50px;
-  color: green;
+  color: black;
+  border-bottom: 4px solid black
+}
+
+span.name {
+  font-size: 80px;
+  border-bottom: 2px solid black
+}
+
+li {
+    display: inline;
+    font-size: 20px;
+    text-decoration: none;
+
 }
