@@ -4,7 +4,13 @@ div.title {
             color: black;
             border-bottom: 4px solid black;
             padding-bottom: 10px;
+            padding-right: 155px;
           }
+
+img.logo {
+          align: left;
+          style: width:155px;height:155px;
+}
 
 span.name {
             font-size: 80px;
