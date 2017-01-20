@@ -36,9 +36,31 @@ nav {
      border-bottom: 4px solid black
 }
 
+section.about {
+  margin-left: 300px;
+  margin-right: 300px;
+  height: 400px;
+  /*padding
+  height: 400px;
+  width: 800px;
+  margin: 20px;
+  font-size: 20px;*/
+  /*background: black;*/
+}
+div.about-text{
+  align:center;
+  /*height: 400px;
+  width: 800px;*/
+  margin: 20px;
+  font-size: 20px;
+  color: black;
+}
+p {
+  text-indent: 50px;
+}
 a:link {
     text-decoration: none;
-    color: black;
+    color: #1F0489;
 }
 
 a:visited {
@@ -52,5 +74,12 @@ a:hover {
 
 a:active {
           color: #DCDBDB;
+
+}
+
+div.about-pic {
+  margin-top: 20px;
+  align:center;
+  padding-left: 240px;
 
 }
