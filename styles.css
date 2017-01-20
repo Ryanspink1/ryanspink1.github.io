@@ -8,7 +8,8 @@ div.title {
           }
 
 img.logo {
-          align: left;
+          /*align: left;*/
+          padding-left: 30px;
           style: width:155px;height:155px;
 }
 
