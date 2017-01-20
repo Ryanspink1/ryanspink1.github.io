@@ -61,7 +61,7 @@ p {
 }
 a:link {
     text-decoration: none;
-    color: #1F0489;
+    color: black;
 }
 
 a:visited {
@@ -79,20 +79,22 @@ a:active {
 }
 
 div.about-pic {
-  margin-top: 40px;
-  align:center;
-  padding-left: 250px;
+              margin-top: 40px;
+              align:center;
+              padding-left: 250px;
 
 }
 
 section.blog-post-1 {
                       margin-top: 80px;
                       margin-left: 200px;
-                          margin-right: 200px;
+                      margin-right: 200px;
+                      padding-left: 200px;
+                      padding-right:200px;
 }
 
 h2 {
-  margin-bottom: 0px;
+    margin-bottom: 0px;
 }
 
 p.date-for-blog {
