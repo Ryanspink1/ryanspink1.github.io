@@ -1,8 +1,9 @@
 div.title {
-            background: #f2f2f2;
+            /*background: #f2f2f2;*/
             font-size: 50px;
             color: black;
             border-bottom: 4px solid black;
+            padding-bottom: 10px;
           }
 
 span.name {
@@ -20,4 +21,23 @@ li {
 
 nav {
      border-bottom: 4px solid black
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+           color: black;
+}
+
+a:hover {
+    /*color: red;*/
+    color: #646464;
+}
+
+a:active {
+          color: #DCDBDB;
+
 }
